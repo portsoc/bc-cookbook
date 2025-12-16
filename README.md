@@ -60,7 +60,12 @@ git commit -m "Added basic HTML structure for pancakes"
 ```
 *(You can do this multiple times during the sprint!)*
 
-### 5. Push & Pull Request
+### 5. Test the code
+Write some tests for the code in plain english.
+Consider edge-cases for these tests (e.g. a person should not be able to add an empty recipe; a person should not be able to add a recipe over 100000 characters....etc.)
+Verify that the code passes the tests by running the code.
+
+### 6. Push & Pull Request
 When your ticket is done:
 
 1. **Push your branch to the cloud:**
@@ -78,7 +83,7 @@ When your ticket is done:
 1. **Stop Coding:** When the sprint timer ends, stop.
 2. **Peer Review:** Ask another group to review your Pull Request on GitHub. They should check it is appropriate and look for things like correct HTML and typos in content.
 3. **Merge:** Once approved, click **"Squash and Merge"** on GitHub.
-4. **Stand-Up:** We will have a quick group sync to discuss blockers and show off new recipes.
+4. **Stand-Up:** We will have a quick group sync to discuss blockers and show off new features.
 
 ---
 
