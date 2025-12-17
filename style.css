@@ -43,6 +43,8 @@ h2 {
   grid-template-columns: repeat(4, 1fr);
   grid-auto-rows: auto;
   gap: var(--spacing);
+  list-style: none;
+  padding: 0;
 }
 
 .recipe-grid li {
@@ -54,20 +56,20 @@ h2 {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .logo {
-    width: 50px;
-    height: 50px;
-    fill: red;
-    align-self: center;
+  width: 50px;
+  height: 50px;
+  fill: red;
+  align-self: center;
 }
 header {
-    display: grid;
-    grid-template-columns: repeat(2, auto);
-    gap: 1em;
-    width:fit-content;
-    align-items: left;
-    margin-left: 1em;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 1em;
+  width: fit-content;
+  align-items: left;
+  margin-left: 1em;
 
-    h1 {
-        align-self: center;
-    }
+  h1 {
+    align-self: center;
+  }
 }
