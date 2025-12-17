@@ -9,6 +9,7 @@ Before we start, ensure you have the following:
 1. **Git** installed ([Download here](https://git-scm.com/downloads)).
 2. A **Code Editor** (we recommend [VS Code](https://code.visualstudio.com/)).
 3. A **GitHub Account**.
+4. Install the **GitHub Pull Requests** extension.
 
 ---
 
