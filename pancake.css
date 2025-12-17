@@ -3,6 +3,24 @@
     padding: 0;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+strong {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E1C16E;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E1C16E;
+}
+
 .recipe {
     width: 300px;
     height: 200px;
@@ -29,14 +47,12 @@
     text-align: center;
     border: 1px solid hsla(0, 0%, 70%, 0.205);
     border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 70%, 0.205);
     display: inline-block;
 }
 
-.method li {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
-}
 
-.method strong {
-    margin: 5px;
+.tidy {
+    margin-top: 15px;
+    color: red;
 }
